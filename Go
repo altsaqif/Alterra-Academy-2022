@@ -1,0 +1,9 @@
+http://kokizzu.blogspot.com/2016/12/list-of-tech-migrations.html
+https://www.practical-go-lessons.com/
+https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world
+https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/07.1.html
+https://play.google.com/books/reader?id=-_-7DwAAQBAJ&pg=GBS.PA8&hl=en
+https://github.com/dariubs/GoBooks
+https://assets.digitalocean.com/books/how-to-code-in-go.pdf
+https://docs.google.com/presentation/d/1FeVe47Z5I-j3CczcTa0U-T-k1-VT2ibnIoYOstw91z8/edit#slide=id.p
+https://docs.google.com/spreadsheets/d/1k7LV0eiDXV6oUnlb7b8TLyQINEEFEWt_eOunv2YImsc/edit#gid=0
