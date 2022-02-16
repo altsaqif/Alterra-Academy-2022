@@ -7,3 +7,4 @@ https://github.com/dariubs/GoBooks
 https://assets.digitalocean.com/books/how-to-code-in-go.pdf
 https://docs.google.com/presentation/d/1FeVe47Z5I-j3CczcTa0U-T-k1-VT2ibnIoYOstw91z8/edit#slide=id.p
 https://docs.google.com/spreadsheets/d/1k7LV0eiDXV6oUnlb7b8TLyQINEEFEWt_eOunv2YImsc/edit#gid=0
+https://restfulapi.net/http-methods/
