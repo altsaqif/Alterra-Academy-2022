@@ -1,6 +1,6 @@
 Problem 1 - Bilangan Prima (max : 50)
 1. Buatlah flowchart untuk menentukan bilangan prima
-Output :
+Output : ![Flowchart Bilangan Prima](https://user-images.githubusercontent.com/99720129/154401507-61287c41-fd30-4cce-af14-f667a333a8eb.png)
 
 Problem 2 - Lampu dan Tombol! (max : 50)
 2. Buatlah flowchart untuk algoritma tersebut
