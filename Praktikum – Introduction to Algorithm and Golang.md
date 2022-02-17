@@ -14,6 +14,7 @@ Problem 2 - Lampu dan Tombol! (max : 50)
 Problem 3 - Install Golang
 
 3. Install Golang di PC masing-masing!
+
 ![Go version](https://user-images.githubusercontent.com/99720129/154404113-c2954f2a-660c-4141-b2e5-bec45b074878.png)
 ![Go version part2](https://user-images.githubusercontent.com/99720129/154404133-97c9fdef-149b-4074-835d-7fd166347246.png)
 
